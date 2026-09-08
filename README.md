@@ -14,7 +14,7 @@
 <div align='center'>
 	<img src="https://count.getloli.com/get/@anjanamadu?theme=moebooru" alt="Counter" />
 	<br><br>
-	<a href="https://open.spotify.com/user/31cbfgutsneduhj663oobnz4o2de"><img src="https://novatorem-gamma-eight.vercel.app/api/spotify" alt="Spotify" /></a>
+	<img src="https://novatorem-green-eight.vercel.app/api/orchestrator" alt="Youtube" height=115 /></a>
 </div>
 
 ---
